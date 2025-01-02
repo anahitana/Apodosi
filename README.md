@@ -2,9 +2,16 @@
 
 Project Videos:
 
-Project Demo: [YouTube URL](https://youtu.be/feYIX6_9uKc)
-Project Trailer: [YouTube URL](https://youtu.be/ekdjXX7HOCM)
-Project Presentation: [YouTube URL](https://youtu.be/RErM8TKpjVo)
+* Project Demo: [YouTube URL](https://youtu.be/feYIX6_9uKc)
+* Project Trailer: [YouTube URL](https://youtu.be/ekdjXX7HOCM)
+* Project Presentation: [YouTube URL](https://youtu.be/RErM8TKpjVo)
+
+Project Group Members:
+
+* Farhan Rahman Khan
+* Erfan Mohammed Abu Jafar
+* Anahita Nik aien 
+* Tridib Paul Turjo
 
 ## Game Mechanics
 - [x] Collisions
