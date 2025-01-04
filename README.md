@@ -1,5 +1,5 @@
 # Apódosi
-
+This game will be soon available for everyone to try it out! :)
 Project Videos:
 
 * Project Demo: [YouTube URL](https://youtu.be/feYIX6_9uKc)
